@@ -146,8 +146,11 @@ main {
   }
   /* section1 */
   .section_img {
-    height: 180px;
-    width: 180px;
+    height: 150px;
+    width: 150px;
+  }
+  main {
+    padding: 0.3rem;
   }
   /* main section */
   .free-shipping {
